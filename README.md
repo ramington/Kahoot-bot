@@ -22,3 +22,4 @@ If you want the bot to join a game you have to do the following:
 4. Wait a moment and the bots will join the game
 
 Have fun!
+[![Run on Repl.it](https://repl.it/badge/github/mixedfruitjuice/Kahoot-bot)](https://repl.it/github/mixedfruitjuice/Kahoot-bot)
